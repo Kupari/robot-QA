@@ -1,0 +1,5 @@
+preview = '//*[@id="dt-item-45"]/td[9]/button/i'
+answers = '//*[@id="js-div-answers"]'
+answer = '//*[@id="js-div-answer"]'
+previewWindow = '//*[@id="js-modal-preview"]/div'
+makkara = 'Makkara(ans)'
